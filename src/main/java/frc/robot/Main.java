@@ -23,4 +23,8 @@ public final class Main {
     RobotBase.startRobot(Robot::new);
   }
 }
+<<<<<<< HEAD
 goodbye world
+=======
+hello world 
+>>>>>>> 1eb90973f21250206479a3791cf196286f3a2d6f
